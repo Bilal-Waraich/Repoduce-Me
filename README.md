@@ -6,7 +6,7 @@ Suggested GitHub Topics: llm reproducibility research-tools arxiv python ai auto
 
 A streamlined pipeline that converts a research paper into a runnable demo by extracting its GitHub repository, resolving dependencies, creating an isolated environment, and generating an executable example script.
 
-Built for and won 1st place at Construcotr Knowledge Labs Hackathon 2025. 
+Winner of 1st position at Construcotr Knowledge Labs Hackathon 2025. 
 
 # Authors
 - Bilal Waraich
