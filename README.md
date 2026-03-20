@@ -6,6 +6,13 @@ Suggested GitHub Topics: llm reproducibility research-tools arxiv python ai auto
 
 A streamlined pipeline that converts a research paper into a runnable demo by extracting its GitHub repository, resolving dependencies, creating an isolated environment, and generating an executable example script.
 
+Built for and won 1st place at Construcotr Knowledge Labs Hackathon 2025. 
+
+# Authors
+- Bilal Waraich
+- Nikolay Tsonev
+- Felipe Ribadeneira
+
 ---
 
 ## Demo
@@ -24,7 +31,6 @@ Representative test runs across recent ML papers:
 |-------|:---:|:---:|:---:|
 | LoRA (arxiv 2106.09685) | ✅ | ✅ | ✅ |
 | Attention Is All You Need (arxiv 1706.03762) | ✅ | ✅ | ✅ |
-| CLIP (arxiv 2103.00020) | ✅ | ❌ | ❌ |
 
 > These are representative test runs. Results depend on repository availability and dependency complexity.
 
